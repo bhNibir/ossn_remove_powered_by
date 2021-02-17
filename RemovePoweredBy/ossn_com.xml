@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>Remove Powered By</name>
+    <id>RemovePoweredBy</id>
+    <author></author>
+    <description>Remove Powered By</description>
+    <license></license>
+    <author_url></author_url>
+    <license_url></license_url>
+    <version>1.0</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>3.0</version>
+	</requires>
+</component>
